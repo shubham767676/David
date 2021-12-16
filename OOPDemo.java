@@ -6,6 +6,6 @@ class OOPDemo {
 	}
 	
 	static void demo() {
-		System.out.println("Hello");
+		System.out.println("Hello World");
 	}
 }
